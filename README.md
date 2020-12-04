@@ -3,7 +3,7 @@ A 2D cold weapon game
 
 This game is suitable for PC. You will fight in a battlefeild. 
 
-There are 2 gamemode:
+There are 2 gamemodes:
 - 4vs4 Rounded
 - 4vs4 Team Deadmatch
 
