@@ -8,11 +8,11 @@ There are 2 gamemode:
 - 4vs4 Team Deadmatch
 
 Controls:
-W - Move upward
-S - Move downward
-A - Move leftward
-D - Move rightward
-LShift - Sprint
-Mouse Left Click - Attack
-Mouse Right Click - Skill Attack
-Esc - Pause
+- W : Move upward
+- S : Move downward
+- A : Move leftward
+- D : Move rightward
+- LShift : Sprint
+- Mouse Left Click : Attack
+- Mouse Right Click : Skill Attack
+- Esc : Pause
